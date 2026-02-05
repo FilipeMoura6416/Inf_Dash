@@ -1,0 +1,19 @@
+Depois de executar o programa, será apresentado um menu com Play, LeaderBoard e Quit
+Para Jogar Pressione o Play, será apresentado um novo menu para escolher a fase desejada. Se desejar voltar do menu de fases para o menu inicial há um botão de voltar no canto inferior direito da tela. Todas as fases tem dificuldades semelhantes e pontuação máxima de todas é igual, todas alteram o leaderboard.
+As fases 2 e 3 são jogáveis mas não contam para o leaderboard. Se desejar sair de uma das fases pode se pressionar Escape ou fechar a janela.
+A pontuação do jogador só será comparada com o leader board se o jogador chegar ao fim da fase. 
+Tentativas diminuem da pontuação inicial e moedas adicionam a pontuação.
+E sim o jogo é pra ser muito difícil e sim dá pra passar de todos os obstáculos. Se for necessário testar o final é possível trocar o local de nascimento do player
+
+No menu inicial se selecionar o leader Board será apresentado o top 5 de pontuação, para voltar ao menu inicial há um botão de voltar no canto inferior direito da tela.
+Não há a necessidade de já ter o arquivo do top5 uma vez que o programa cria-o se não exitir, mas se já existir o programa é capaz de abri-lo e altera-lo.
+
+O botão Quit encerra totalemente o programa.
+
+
+Nos arquivos fase1, fase2 e fase3 que irão gerar os mapas 
+G é o bloco comum
+S é um espinho
+C é uma moeda
+I é o ponto de nascimento do jogador
+F é a chegada
